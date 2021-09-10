@@ -1,5 +1,3 @@
-# About me
-
 I'm a game developer, working as a Tool programmer at Ubisoft. I code mostly with C#/.NET.
 
 I'm globally interested by game development, but also by languages & UX.
