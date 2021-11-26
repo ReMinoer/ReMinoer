@@ -16,7 +16,10 @@ I tends to create small libraries & tools on GitHub when my bigger personal proj
 
 ## Dev tools/libraries
 
-- [SubSolution](https://github.com/ReMinoer/SubSolution): tool & framework to manipulate .sln files
+[![Nuget](https://img.shields.io/nuget/v/SubSolution?label=SubSolution&color=004880&logo=nuget)](https://www.nuget.org/packages/SubSolution)
+[![Nuget](https://img.shields.io/nuget/v/subsln?label=subsln&color=004880&logo=windowsterminal)](https://www.nuget.org/packages/subsln)
+
+- [SubSolution](https://github.com/ReMinoer/SubSolution): framework & tool to manipulate Visual Studio solution files
 - [Niddle](https://github.com/ReMinoer/Niddle): dependency injection framework
 - [Taskete](https://github.com/ReMinoer/Taskete): scheduling framework
 - [PostMortem](https://github.com/ReMinoer/PostMortem): crash reporting framework
