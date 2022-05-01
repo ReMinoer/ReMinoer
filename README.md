@@ -15,9 +15,10 @@ I tends to create small libraries & tools on GitHub when my bigger personal proj
 - [Fingear](https://github.com/ReMinoer/Fingear): cross-engine input framework
 
 ## Dev tools/libraries
-
-[![Nuget](https://img.shields.io/nuget/v/SubSolution?label=SubSolution&color=004880&logo=nuget)](https://www.nuget.org/packages/SubSolution)
-[![Nuget](https://img.shields.io/nuget/v/subsln?label=subsln&color=004880&logo=windowsterminal)](https://www.nuget.org/packages/subsln)
+  
+  [![SubSolution for Visual Studio](https://img.shields.io/visual-studio-marketplace/v/ReMinoer.SubSolution2022?label=SubSolution%20for%20Visual%20Studio&color=5C2D91&logo=visualstudio)](https://marketplace.visualstudio.com/items?itemName=ReMinoer.SubSolution2022)
+  [![subsln](https://img.shields.io/nuget/v/subsln?label=subsln&color=333333&logo=windowsterminal)](https://www.nuget.org/packages/subsln)
+  [![SubSolution](https://img.shields.io/nuget/v/SubSolution?label=SubSolution&color=004880&logo=nuget)](https://www.nuget.org/packages/SubSolution)
 
 - [SubSolution](https://github.com/ReMinoer/SubSolution): framework & tool to manipulate Visual Studio solution files
 - [Niddle](https://github.com/ReMinoer/Niddle): dependency injection framework
