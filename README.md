@@ -4,7 +4,7 @@ I'm a game developer, working as a Tool programmer at Ubisoft. I code mostly wit
 
 I'm globally interested by game development, but also by languages & UX.
 
-I tends to create small libraries & tools on GitHub when my bigger personal projects need them but I don't like to release them as package/application (for now). :stuck_out_tongue_closed_eyes:
+I tends to create small libraries & tools on GitHub when my bigger personal projects need them.
 
 # Main repositories
 
