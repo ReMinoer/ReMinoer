@@ -33,6 +33,7 @@ I tends to create small libraries & tools on GitHub when my bigger personal proj
 - [YoutubeDotMp3](https://github.com/ReMinoer/YoutubeDotMp3): application to download audio from Youtube
 - [SoundtrackTagger](https://github.com/ReMinoer/SoundtrackTagger): tag soundtrack files with original media info
 - [CoverMyOST](https://github.com/ReMinoer/CoverMyOST): find & assign covers to soundtrack files
+- [FreeCompanyRegister](https://github.com/ReMinoer/FreeCompanyRegister): output job levels of FF14 Free Company members into a CSV
 
 ## Languages
 
